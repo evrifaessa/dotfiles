@@ -9,7 +9,7 @@ I don't want to have to repeatedly sync my configuration files between my comput
 
 ## What's included
 I'll upload whatever I can. Right now, these exist in the repository:
-* My [conky](https://github.com/brndnmtthws/conky) configuration (.conkyrc)
+* My [conky](https://github.com/brndnmtthws/conky) configuration ([.conkyrc](/.conkyrc))
 
 ## I want to add my own configuration
 Feel free to fork the repository, customize your needs and maybe even upstream your changes with a PR so everyone can benefit them. If you found any bugs, feel free to [create an issue](https://github.com/evrifaessa/dotfiles/issues).
