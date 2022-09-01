@@ -9,7 +9,7 @@ I don't want to have to repeatedly sync my configuration files between my comput
 
 ## What's included
 I'll upload whatever I can. Right now, these exist in the repository:
-* My [conky](https://github.com/brndnmtthws/conky) configuration ([.conkyrc](/.conkyrc))
+* My [conky](https://github.com/brndnmtthws/conky) configuration ([.conkyrc](/dotfiles/.conkyrc))
 ### Ubuntu/Debian derivatives
 * [A script](/scripts/debian/remove-snap.sh) to remove Snap
 * [A script](/scripts/debian/install-flatpak.sh) to install Flatpak and set up Flathub
