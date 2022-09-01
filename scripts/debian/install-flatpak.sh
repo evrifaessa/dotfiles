@@ -1,6 +1,6 @@
 # https://github.com/evrifaessa/dotfiles
 # Install Flatpak and set up the Flathub repository
-# Should work on Ubuntu 18.10 (Cosmic Cuttlefish) or later
+# Should work on Ubuntu 18.10 (Cosmic Cuttlefish) or later and Debian Buster and newer
 
 # Install Flatpak
 sudo apt install flatpak
